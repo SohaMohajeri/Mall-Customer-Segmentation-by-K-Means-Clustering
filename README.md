@@ -3,7 +3,6 @@
 # Mall Customer Segmentation by K-Means Clustering
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/97070888-b28d2300-1590-11eb-944c-fedfc5052aa6.jpg" >
 </div>
