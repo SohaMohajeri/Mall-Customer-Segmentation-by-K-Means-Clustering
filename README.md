@@ -18,5 +18,3 @@ In this notebook, we will be illustrating how to apply K Means algorithm to a da
 First, we will perform exploratory data analysis and then work on customer segmentation by implementing K-Means Clustering based on the characteristics of customers. In this way, we can find the main clusters which are the most representative types of customers. 
 
 </div>
-
-
